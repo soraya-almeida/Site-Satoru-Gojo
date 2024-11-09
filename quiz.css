@@ -1,0 +1,25 @@
+img{
+    border-radius: 10px;
+    height:center;
+    max-width: 300px;
+    
+}
+
+
+label[input=radio] {
+    
+    align-items: center;
+    gap: 10
+    
+    
+ }
+
+ body {
+    text-align: center;
+    background-color: #a099ca;
+ }
+
+ hr{
+    border-radius: 50px;
+    border-color: black;
+ }
